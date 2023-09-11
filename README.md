@@ -2,7 +2,7 @@
 
 Modelagem de dados para e-Commerce usada usando MySQl WorkBench
 
-![logo](https://www.blograffo.net/wp-content/uploads/2021/10/mysql-logo.jpg)
+![logo](https://i.ytimg.com/vi/-GnKwwc4KSA/maxresdefault.jpg)
 
 ---
 
